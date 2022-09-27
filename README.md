@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub account 👋
 
-<!--
-**ahmadzfaiz/ahmadzfaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is ***Ahmad Zaenun Faiz***, I am specialized in GIS and Data Engineering.
 
-Here are some ideas to get you started:
+- 🏢 I’m currently working on **Kaleka** as *Data Management*
+- 🧑‍💻 I am a Python Programmer, specialized in Spatial Analysis, Data Engineering and Web Development
+- 💬 You can ask me about GIS, Cloud Engineering (AWS & GCP), Data Engineering, and Webgis Development. I will be happy to answer it
+- 🌏 I have extensive experience building a webgis site using OpenLayers and Leaflet.js as front-end, GeoServer as spatial data server, PostgreSQL/PostGIS as database and Django as backend framework 
+- 📫 Reach me on <a href='https://www.linkedin.com/in/ahmad-zaenun-faiz/'>LinkedIn</a>, <a href='https://twitter.com/zaenun_faiz'>Twitter</a> or by email at zaenun.faiz@gmail.com
+- 🤔 Just let me know if you have a good idea to share with me 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadzfaiz&show_icons=true&theme=radical)<br>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzfaiz&hide=TeX&layout=compact)
+
+
+### My Skills
+Programming Language:
+![Python](https://img.shields.io/badge/-Python-blue)
+![SQL](https://img.shields.io/badge/-SQL-red)
+![JS](https://img.shields.io/badge/-JavaScript-yellow)
+
+Python Modules:
+![NumPy](https://img.shields.io/badge/-NumPy-green)
+![Pandas](https://img.shields.io/badge/-Pandas-lightgrey)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange)
+![Django](https://img.shields.io/badge/-Django-brightgreen)
+![Airflow](https://img.shields.io/badge/-ApacheAirflow-9cf)
+
+JavaScript Libraries:
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet)
+![JQuery](https://img.shields.io/badge/-JQuery-inactive)
+![D3](https://img.shields.io/badge/-D3.js-orange)
+![OL](https://img.shields.io/badge/-OpenLayers-azure)
+![Leaflet](https://img.shields.io/badge/-Leaflet-yellow)
+![React](https://img.shields.io/badge/-React.js-seablue)
+
+GIS:
+![QGIS](https://img.shields.io/badge/-QGIS-green)
+![ArcMap](https://img.shields.io/badge/-ArcMap-blue)
+![GeoServer](https://img.shields.io/badge/-GeoServer-yellow)
+![PostGIS](https://img.shields.io/badge/-PostGIS-navy)
+
+IDE:
+![VSCode](https://img.shields.io/badge/-VSCode-blue)
+![PyCharm](https://img.shields.io/badge/-PyCharm-gray)
+![Jupyter](https://img.shields.io/badge/-JupyterNotebook-red)
