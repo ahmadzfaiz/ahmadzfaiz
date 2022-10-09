@@ -1,4 +1,5 @@
 ### Hi there, welcome to my GitHub account 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 My name is ***Ahmad Zaenun Faiz***, I am specialized in GIS and Data Engineering.
 
@@ -10,11 +11,25 @@ My name is ***Ahmad Zaenun Faiz***, I am specialized in GIS and Data Engineering
 - 🤔 Just let me know if you have a good idea to share with me 😊
 
 ### My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadzfaiz&show_icons=true&theme=radical)<br>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzfaiz&hide=TeX&layout=compact)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadzfaiz&show_icons=true&theme=merko) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzfaiz&hide=TeX&layout=compact&theme=merko) |
+| ------------- | ------------- |
 
 
 ### My Skills
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/numpy.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/pandas.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/matplotlib.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/airflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/d3.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/openlayers.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/qgis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/geoserver.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ahmadzfaiz/ahmadzfaiz/main/images/gcp.png"></code>
+
 Programming Language:
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![SQL](https://img.shields.io/badge/-SQL-red)
@@ -45,3 +60,6 @@ IDE:
 ![VSCode](https://img.shields.io/badge/-VSCode-blue)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-gray)
 ![Jupyter](https://img.shields.io/badge/-JupyterNotebook-red)
+
+Cloud Technology:
+![GCP](https://img.shields.io/badge/-GoogleCloud-white)
