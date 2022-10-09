@@ -1,5 +1,4 @@
 ### Hi there, welcome to my GitHub account 👋
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 My name is ***Ahmad Zaenun Faiz***, I am specialized in GIS and Data Engineering.
 
