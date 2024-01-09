@@ -2,7 +2,7 @@
 
 My name is ***Ahmad Zaenun Faiz***, I am specialized in GIS and Data Engineering.
 
-- 🏢 I’m currently working on **Kaleka** as *Data Management*
+- 🏢 I’m currently working on **Meridia** as *Data Engineer*
 - 🧑‍💻 I am a Python Programmer, specialized in Spatial Analysis, Data Engineering and Web Development
 - 💬 Let's discuss about GIS, Cloud Engineering (AWS & GCP), Data Engineering, and Webgis Development
 - 🌏 I have extensive experiences building webgis sites using OpenLayers and Leaflet.js as front-end, GeoServer as spatial data server, PostgreSQL/PostGIS as database and Django as backend framework 
